@@ -1,0 +1,57 @@
+Control+Shift+I                 Realizar importaciones de manera automática de librerías necesarias.
+
+Control+BarraEspaciadora        Obtener sugerencias acerca del código que estamos escribiendo.
+
+Control+Shift+Enter             Ampliar ventana de código o diseño (Pantalla completa), puedes salir de esta haciendo uso de la misma combinación.
+
+Alt+Shift+F                     Organizar código.
+
+Control+Shift+C                 Comentar linea seleccionada.
+
+Control+N                       Nuevo archivo.
+
+Shit+Suprimir                   Cortar linea actual.
+
+Shift+Alt+Flechasarriba/abajo   Mover linea o lineas seleccionadas hacia arriba o hacia abajo.
+
+sout+Tabulador                  System.out.println(“”);
+
+for+Tabulador                   for (int i = 0; i < 10; i++) {}
+
+Control+4                       Mostrar output (Consola de salida)
+
+Control+A                       Seleccionar todo el código.
+
+Control+Shift+S                 Guardar todo.
+
+Control+E                       Elimina la linea actual.
+
+Alt+Insertar                    Insertar Codigo. Constructor, getter, setters, Logger.
+
+Control+W                       Cerrar pestaña actual.
+
+Control+Shift+U                 Crear test.
+
+Control+Shift+D                 Acceder a las 5 ultimas copias del portapapeles.
+
+Control+Shift+7                 Mostrar paleta de propiedades del objeto seleccionado.
+
+Control+Shift+8                 Mostrar paleta de componentes.
+
+Control+Shift+P                 Crear reporte de impression, tanto para código como para formularios.
+
+Control+K                       Autocompletar código.
+
+Control+Tabulador               Navegar entre pestañas.
+
+Control+Shift+FlechaAbajo       Duplicar linea seleccionada.
+
+Control+Shift+R                 Selección rectangular.
+
+Control+7                       Navigator.
+
+Control+1                       Proyectos.
+
+Control+F5                      Debug Proyect.
+
+Control+Clic                    Navegar al método, Clase o declaración.
